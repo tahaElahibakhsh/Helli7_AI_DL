@@ -1,4 +1,4 @@
-# Final Project: Artificial Intelligence - AI School Hol7 (Modares Sejjadi Haddadi)
+# Final Project: Artificial Intelligence - AI School helli 7 (Modares Sejji Haddadi)
 
 This repository contains the final projects for the Artificial Intelligence course at Modares saji Haddadi's AI class, helli7. The projects were developed as part of the curriculum with a deadline at the end of the Khordad examinations.
 
